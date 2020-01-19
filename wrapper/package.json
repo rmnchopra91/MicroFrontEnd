@@ -1,0 +1,15 @@
+{
+  "name": "micro-fe-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -l 4200"
+  },
+  "serve": "^11.2.0",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
