@@ -1,2 +1,3 @@
-# MicroFrontEnd
-micro front end application(angular + react)
+git clone
+npm install for all 3 applications
+then run npm strat
